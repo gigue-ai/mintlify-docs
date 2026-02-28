@@ -1,0 +1,36 @@
+{
+    "name": "Gigue",
+    "logo": {
+        "light": "/logo/gigue-wordmark.png",
+        "dark": "/logo/gigue-wordmark-dark.png"
+    },
+    "favicon": "/favicon.png",
+    "colors": {
+        "primary": "#0D9373",
+        "light": "#10B981",
+        "dark": "#059669"
+    },
+    "topbarLinks": [
+        {
+            "name": "Website",
+            "url": "https://gigue.ai"
+        },
+        {
+            "name": "Blog",
+            "url": "https://gigue.ai/blog"
+        }
+    ],
+    "topbarCtaButton": {
+        "name": "Login to Beta",
+        "url": "https://beta.gigue.app"
+    },
+    "navigation": [
+        {
+            "group": "Getting Started",
+            "pages": [
+                "index",
+                "quickstart"
+            ]
+        }
+    ]
+}
