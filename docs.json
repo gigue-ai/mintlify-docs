@@ -26,14 +26,16 @@
         "url": "https://beta.gigue.app"
     },
     "navigation": {
-        "groups": [
-            {
-                "group": "Getting Started",
-                "pages": [
-                    "index",
-                    "quickstart"
-                ]
-            }
-        ]
+      "groups": [
+        {
+          "group": "Getting Started",
+          "pages": [
+            "index",
+            "quickstart",
+            "walkthrough",
+            "support"
+          ]
+        }
+      ]
     }
 }
