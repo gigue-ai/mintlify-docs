@@ -147,6 +147,3 @@ Our dedicated support team is here to ensure your revenue organization operates 
 - **Customer Success**: For training, workflow optimization, and best practices, reach out to your dedicated Customer Success Manager.
 - **Documentation**: Access our comprehensive knowledge base and API documentation by visiting the Help Center in your portal.
 
----
-
-*This document is for informational purposes. For detailed security controls or SOC 2 reports, please contact our security team.*
