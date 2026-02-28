@@ -4,7 +4,7 @@
         "light": "/logo/gigue-wordmark.png",
         "dark": "/logo/gigue-wordmark-dark.png"
     },
-    "favicon": "/favicon.svg",
+    "favicon": "/favicon.png",
     "colors": {
         "primary": "#0D9373",
         "light": "#10B981",
