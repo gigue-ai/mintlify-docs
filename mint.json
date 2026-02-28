@@ -12,10 +12,18 @@
     },
     "topbarLinks": [
         {
-            "name": "App",
+            "name": "Website",
             "url": "https://gigue.ai"
+        },
+        {
+            "name": "Blog",
+            "url": "https://gigue.ai/blog"
         }
     ],
+    "topbarCtaButton": {
+        "name": "Login to Beta",
+        "url": "https://beta.gigue.app"
+    },
     "navigation": [
         {
             "group": "Getting Started",
