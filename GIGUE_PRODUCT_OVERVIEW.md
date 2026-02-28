@@ -4,7 +4,7 @@
 ---
 
 ## 1. Executive Summary & Company Background
-Gigue Inc. ("gigue") is a **multiplayer AI workspace for revenue teams**—an integrated execution environment designed to help go-to-market teams operate with the same precision and leverage that engineers gain from an IDE.
+Gigue is a **multiplayer AI workspace for revenue teams**—an integrated execution environment designed to help go-to-market teams operate with the same precision and leverage that engineers gain from an IDE.
 
 By consolidating messages, CRM data, and task workflows into a single, intelligently prioritized workspace, Gigue transforms revenue operations. Rather than replacing human insight, Gigue enhances productivity by assigning "proactive agents" (LLMs running as background processes) to repetitive tasks. This allows sales professionals to save up to 20+ hours per week and focus on what matters most: strategy, relationship building, and closing deals.
 
