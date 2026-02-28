@@ -2,7 +2,7 @@
     "name": "Gigue",
     "logo": {
         "light": "/logo/gigue-wordmark.png",
-        "dark": "/logo/gigue-wordmark.png"
+        "dark": "/logo/gigue-wordmark-dark.png"
     },
     "favicon": "/favicon.svg",
     "colors": {
