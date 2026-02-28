@@ -1,8 +1,8 @@
 {
     "name": "Gigue",
     "logo": {
-        "light": "/logo/logo.png",
-        "dark": "/logo/logo.png"
+        "light": "/logo/wordmark-light.svg",
+        "dark": "/logo/wordmark-dark.svg"
     },
     "favicon": "/favicon.svg",
     "colors": {
