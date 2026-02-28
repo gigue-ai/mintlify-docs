@@ -25,13 +25,15 @@
         "name": "Login to Beta",
         "url": "https://beta.gigue.app"
     },
-    "navigation": [
-        {
-            "group": "Getting Started",
-            "pages": [
-                "index",
-                "quickstart"
-            ]
-        }
-    ]
+    "navigation": {
+        "groups": [
+            {
+                "group": "Getting Started",
+                "pages": [
+                    "index",
+                    "quickstart"
+                ]
+            }
+        ]
+    }
 }
