@@ -6,41 +6,61 @@ description: "Get up and running with Gigue and connecting your core accounts"
 Welcome to Gigue. This guide provides a step-by-step walkthrough for authorizing Gigue to access your background tools—Gmail, Google Calendar, Slack, and Google Drive—so you can start using your multiplayer AI workspace.
 
 ## 1. Initial Login
+
 1. Navigate to [beta.gigue.app](https://beta.gigue.app/).
 2. Click **"Sign In With Google"**.
 3. Grant permissions to create a user account in our system. This is required for your user profile and workspace settings.
 
 ## 2. Connecting Your Tools
+
 Navigate to the **Connections** tab (found at the bottom of the sidebar or in your settings) to link your accounts.
 
+<Frame>
+  ![Screenshot2026 02 28at19 25 53](/images/Screenshot2026-02-28at19.25.53.png)
+</Frame>
+
 ### Connect Gmail, Drive, & Calendar
+
 1. Find the **Gmail** (or Google) integration and toggle it on.
 2. Click **"Connect Account"**.
 
 #### Handling the "Verification" Warning
+
 During this phase, you may encounter a screen that says **"Google hasn't verified this app"**. This is expected for our initial testing environment.
+
 1. Click the **"Advanced"** link in the bottom left of the warning.
 2. Click **"Go to Gigue (unsafe)"** to proceed to the consent screen.
 
 ### Connect Slack
+
 1. Find the **Slack** integration and toggle it on.
 2. Follow the Slack authorization flow to sync your channels and messages.
 
 ## 3. Scopes & Permissions
+
 Gigue requires these permissions to function as a multiplayer AI workspace:
+
 - **Read/Send Emails**: To triage your inbox and draft replies.
 - **Manage Calendar**: To schedule meetings and prepare briefings.
 - **View Drive Files**: To allow AI agents to reference your documents for account context.
 
 ## 4. Triggering Initial Sync (Alpha Users)
-Once connected, your data needs to be synced to your Gigue workspace: 
+
+Once connected, your data needs to be synced to your Gigue workspace:
+
 1. Navigate to the **Back Office** panel.
 2. Under **Sync Channels**, select **Source: Gmail** (or Slack) and click **Run**.
 3. Repeat for **Ingest Messages** and **Group Conversations** to populate your **Workstreams**.
 
 ## 5. Explore Your Workspace
+
 - **Home (Daily Briefing)**: AI-generated briefings on your day and extracted action items.
+  - <Frame>
+      ![Screenshot2026 02 28at19 25 28](/images/Screenshot2026-02-28at19.25.28.png)
+    </Frame>
 - **Conversations**: View your multi-channel messages (Slack/Gmail) grouped by topic.
+  - <Frame>
+      ![Screenshot2026 02 28at19 26 30](/images/Screenshot2026-02-28at19.26.30.png)
+    </Frame>
 - **Workstreams**: Track deals. Gigue automatically extracts tasks and updates.
 - **Unified Search (Cmd + K)**: Find anything across all connected platforms instantly.
-
