@@ -1,0 +1,41 @@
+---
+title: "Google OAuth Setup"
+description: "Detailed walkthrough for connecting your Google accounts to Gigue"
+---
+
+This guide provides a step-by-step walkthrough for authorizing Gigue to access your Gmail, Google Calendar, and Google Drive data.
+
+## 1. Initial Login
+1. Navigate to [demo.gigue.app](https://demo.gigue.app/).
+2. Click **"Sign In With Google"**.
+3. Grant permissions to create a user account in our system. This is required for your user profile and workspace settings.
+
+## 2. Connecting Gmail
+1. Click the **"Connections"** icon (usually at the bottom of the sidebar or in your profile settings).
+2. Find the **Gmail** integration and toggle it on.
+3. Click **"Connect Account"**.
+
+### Handling the "Verification" Warning
+During the early access/alpha phase, you may encounter a screen that says **"Google hasn't verified this app"**. This is expected for internal testing.
+1. Click the **"Advanced"** link in the bottom left of the warning.
+2. Click **"Go to Gigue (unsafe)"** to proceed to the consent screen.
+
+## 3. Scopes & Permissions
+Gigue requires the following permissions to function as a multiplayer AI workspace:
+- **Read/Send Emails**: To triage your inbox and draft replies.
+- **Manage Calendar**: To schedule meetings and prepare briefings.
+- **View Drive Files**: To allow AI agents to reference your documents for deal context.
+
+Click **"Allow"** on the Google consent screen to finalize the connection.
+
+## 4. Triggering Initial Sync
+Once connected, your Gmail messages and Calendar events need to be synced to the Gigue environment. 
+1. Navigate to the **Back Office** panel.
+2. Under **Sync Channels**, select **Source: Gmail**.
+3. Choose **Incremental** sync and click **Run**.
+4. Repeat this for **Ingest Messages** and **Group Conversations** to populate your **Workstreams**.
+
+## Troubleshooting
+- **Connection Failed**: Ensure you are not already logged into multiple Google accounts in the same browser window.
+- **Missing Messages**: If messages aren't appearing in your **Conversations** tab, re-run the "Sync Channels" task in the Back Office.
+- **Disconnecting**: You can revoke access at any time through the **Connections** tab or your [Google Account Security settings](https://myaccount.google.com/permissions).
