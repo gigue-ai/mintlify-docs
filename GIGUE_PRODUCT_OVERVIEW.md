@@ -16,7 +16,7 @@ Designed specifically to reduce sales cycle times and increase win rates for tea
 
 ### 2.1 Unified Intelligence & Deep Integrations
 Centralize scattered communications and CRM data to eliminate constant tool switching.
-- **Vast Ecosystem Integration**: Deep integrations with over 13,000 tools.
+- **Vast Ecosystem Integration**: Deep integrations with thousands of tools.
 - **Omnichannel Inbox**: Manage messages (e.g., Gmail, Slack) seamlessly within a unified interface.
 - **CRM Sync & Context Preservation**: Automatically links historical communications and CRM activity, preserving context so users can get up to speed instantly without digging through fragmented sources.
 
@@ -143,7 +143,7 @@ If you encounter issues while using Gigue, consult the steps below:
 
 Our dedicated support team is here to ensure your revenue organization operates smoothly. 
 
-- **Technical Support**: For bugs, integration issues, or platform down-time, please email `support@gigue.inc` or open a ticket directly through the Help menu in the Gigue app.
+- **Technical Support**: For bugs, integration issues, or platform down-time, please email `hello@gigue.ai` or open a ticket directly through the Help menu in the Gigue app.
 - **Customer Success**: For training, workflow optimization, and best practices, reach out to your dedicated Customer Success Manager.
 - **Documentation**: Access our comprehensive knowledge base and API documentation by visiting the Help Center in your portal.
 
